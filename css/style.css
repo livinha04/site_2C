@@ -6,4 +6,10 @@
 body{
     background-color: rgb(187, 85, 119);
     color: rgb(245, 193, 211);
+    font-size: 1.5;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(231, 131, 147);
 }
