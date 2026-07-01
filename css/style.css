@@ -7,9 +7,20 @@ body{
     background-color: rgb(187, 85, 119);
     color: rgb(245, 193, 211);
     font-size: 1.5;
+    text-align: center;
 }
 
 a{
     text-decoration: none;
     color: rgb(231, 131, 147);
+}
+
+input,button{
+    background-color: rgb(236, 175, 185);
+    color: rgb(0, 0, 0);
+    padding: 4px;
+}
+
+button{
+    border-radius: 8px;
 }
